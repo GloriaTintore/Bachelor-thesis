@@ -1,0 +1,2 @@
+params = (Cp = 1000.0, R = 287.0, N = 10)
+function 
